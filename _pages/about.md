@@ -22,15 +22,17 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-The next generation of design tools will be adaptive, intelligent, and user-oriented, enabling us to practice design without mastering the idiosyncrasies of individual tools.  I embed modeling wizardry and first principles thinking into design workflows to contribute to the realization of this vision. Please enjoy this portfolio of my work!
+Development of the design intuition required to create novel mechanical systems costs time: time to create candidate systems, build them, test them, and critique them.
+As the mechanics governing design spaces become increasingly nonlinear and surprising, our ability to reason from prior knowledge weakens, and these costs increase.
+It is in these complex, rugged design spaces that the development of design intuition is most challenging, and simultaneously, where the application of automated, computational design is potentially most helpful.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My specialty lies in nudging design efforts foward across uncertain terrain using numerical modeling, deep knowledge of traditional and emerging fabrication technologies, and first principles thinking. 
 
-[Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.]: #
+I work as a postdoctoral researcher at the [Max Planck Intitute for Intelligent Systems](https://is.mpg.de/en) developing soft electrostatic transducers. I hold a PhD and MS in Mechanical Engineering from the University of Colorado Boulder, and a BS in Mechanical Engineering from California Polytechnic State University, San Luis Obispo. 
 
-[Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.]: #
+Between degrees, I spent a few years working as an engineering consultant specializing in medical device design at [Triple Ring Technologies](https://www.tripleringtech.com/) in Newark, CA. Outside of work, I enjoy hiking and running around Stuttgart, cluttering my apartment with trinkets, and playing billiards.
