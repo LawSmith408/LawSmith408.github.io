@@ -400,16 +400,14 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+      },{id: "news-i-defended-my-phd-dissertation-stretching-the-boundary-computational-design-and-fabrication-of-soft-systems-at-the-university-of-colorado-in-boulder",
+          title: 'I defended my PhD Dissertation Stretching the Boundary: Computational Design and Fabrication of...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-joined-the-max-planck-institute-for-intelligent-systems-in-stuttgart-germany-as-a-postdoctoral-researcher-in-the-robotic-materials-department",
+          title: 'I joined the Max Planck Institute for Intelligent Systems in Stuttgart, Germany as...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-was-awarded-the-humboldt-postdoctoral-research-fellowship-to-support-2-years-of-research-into-soft-electrostatic-transducers-for-wave-energy-harvesting",
+          title: 'I was awarded the Humboldt Postdoctoral Research Fellowship to support 2 years of...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
