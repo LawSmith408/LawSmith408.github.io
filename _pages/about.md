@@ -27,12 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Development of the design intuition required to create novel mechanical systems costs time: time to create candidate systems, build them, test them, and critique them.
-As the mechanics governing design spaces become increasingly nonlinear and surprising, our ability to reason from prior knowledge weakens, and these costs increase.
-It is in these complex, rugged design spaces that the development of design intuition is most challenging, and simultaneously, where the application of automated, computational design is potentially most helpful.
+My specialty: driving design foward across uncertain terrain using **numerical modeling** and deep knowledge of traditional and **emerging fabrication technologies**. 
 
-My specialty lies in nudging design efforts foward across uncertain terrain using numerical modeling, deep knowledge of traditional and emerging fabrication technologies, and first principles thinking. 
+I work as a postdoctoral researcher at the [Max Planck Intitute for Intelligent Systems](https://is.mpg.de/en) developing soft electrostatic transducers. I hold a PhD and MS in Mechanical Engineering from the University of Colorado Boulder, where I explored the **computational design** of soft structures in the [Matter Assembly Computation Lab](https://matterassembly.org/).
 
-I work as a postdoctoral researcher at the [Max Planck Intitute for Intelligent Systems](https://is.mpg.de/en) developing soft electrostatic transducers. I hold a PhD and MS in Mechanical Engineering from the University of Colorado Boulder, and a BS in Mechanical Engineering from California Polytechnic State University, San Luis Obispo. 
-
-Between degrees, I spent a few years working as an engineering consultant specializing in medical device design at [Triple Ring Technologies](https://www.tripleringtech.com/) in Newark, CA. Outside of work, I enjoy hiking and running around Stuttgart, cluttering my apartment with trinkets, and playing billiards.
+I've learned medical device design at [Triple Ring Technologies](https://www.tripleringtech.com/) in Newark, California, and consulted for years as a numerical modeling specialist with [FPrin](https://fprin.com/). Outside of work, I enjoy hiking and running around Stuttgart, cluttering my apartment with trinkets, and playing billiards.
