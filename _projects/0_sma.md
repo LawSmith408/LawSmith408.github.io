@@ -1,8 +1,9 @@
 ---
+
 layout: page
-title: Modeling Phase Transition
-description: A Wire Apart
-img: assets/img/bolus_1.PNG
+title: Delivering Precise Drug Doses
+description: A Bolus Dose Mechanism
+img: /assets/img/bolus_1.PNG
 importance: 1
 category: work
 related_publications: false
@@ -20,7 +21,7 @@ A micromachined rack and gear converts input translational motion into rotation 
 
 This design was highly constrained in multiple dimensions: overall size, cost, force to actuate, ease of assembly, and above all, patient safety. I performed comprehensive static force balance analysis to correctly tolerance interference fits, drive sliding contact dimensions, and size the antagonistic springs which support dose and seal functions.
 
-When components arrived, I assembled and tested 10 replicates of the design and delivered them to the client. Their rigorous internal testing demonstrated that my design reduced dose variability from 6.6% to 1.0%, and it was granted [US Pat. 11007317](https://patents.google.com/patent/US7517335B2/en?oq=US7517335B2).
+When components arrived, I assembled and tested 10 replicates of the design and delivered them to the client. Their rigorous internal testing demonstrated that my design reduced dose variability from 6.6% to 1.0%, and it was granted US Pat. 11007317.
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-6 mt-3 mt-md-0">
