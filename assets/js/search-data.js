@@ -409,18 +409,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-was-awarded-the-humboldt-postdoctoral-research-fellowship-to-support-2-years-of-research-into-soft-electrostatic-transducers-for-wave-energy-harvesting",
           title: 'I was awarded the Humboldt Postdoctoral Research Fellowship to support 2 years of...',
           description: "",
-          section: "News",},{id: "projects-0-bolus",
-          title: '0_bolus',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/0_bolus/";
-            },},{id: "projects-0-sma",
-          title: '0_sma',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/0_sma/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
+          section: "News",},{id: "projects-bolus-dose",
+          title: 'Bolus Dose',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_bolus/";
