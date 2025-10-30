@@ -11,15 +11,13 @@ related_publications: true
 
 ## Delivering Precise Drug Doses
 
-Nickel-Titanium Alloyys
+While working toward my graduate degrees, I spent a few years building a detailed electrical, thermal, and mechanical model of **shape memory alloy (SMA) actuators** — the kind often used in medical devices for precise motion control.
 
-Over the course of several years while I worked towards my graduate degrees, I built a coupled electrical/thermal/mechanical model of shape memory alloy (SMA) actuators capable of predicting their performance in medical devices. 
+I wrote a custom nonlinear solver from scratch using the equations of state, along with an adaptive time-step routine to handle the tricky dynamics. Basically, it could predict how the actuator would respond in real-world conditions with impressive accuracy.
 
-The dynamics are handled with a nonlinear Newton-Raphson solver that I wrote using the equations of state, along with a custom adaptive-step time integration scheme.
+Later on, at a client’s request, I teamed up with developers at MathWorks to turn the model into a **custom Simulink block**. That made it much easier to compare different design concepts side by side — and helped guide decisions around energy use, durability, and overall system reliability.
 
-At our clients’ request I worked closely with Mathworks developers for six months to re-implement the model as a custom Simulink block, enabling effective evaluation of a number of alternative designs and implementations, and supporting the down-selection based on high level design criteria like energy consumption and reliability.
-
-I completed this model in my capacity as an numerical modeling specialist at FPrin LLC, a trusted first-principles based engineering consulting firm specializing in development of breakthrough medical device products. A full whitepaper describing the model implementation can be obtained from their resources page.
+I built this model while working as a numerical modeling specialist at [**FPrin LLC**](https://fprin.com/), an engineering consulting group known for applying first-principles physics to complex medical device design. Check out [the whitepaper](https://fprin.com/white-papers/).
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-6 mt-3 mt-md-0">
