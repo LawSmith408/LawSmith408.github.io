@@ -14,10 +14,10 @@ Brainstorming methods, materials selection, parameter optimization, constraints 
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bolus_2.jpg" title="example image" style="width:50%" %}
+        {% include figure.liquid loading="eager" path="assets/img/bolus_2.jpg" title="example image" style="height:250px; width:auto;" %}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bolus_3.gif" title="example image" style="width:40%" %}
+        {% include figure.liquid loading="eager" path="assets/img/bolus_3.gif" title="example image" style="height:250px; width:auto;" %}
     </div>
 </div>
 
@@ -29,10 +29,10 @@ A micromachined rack and gear converts input translational motion into rotation 
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bolus_4.gif" title="example image" style="width:50%" %}
+        {% include figure.liquid loading="eager" path="assets/img/bolus_4.gif" title="example image" style="height:250px; width:auto;" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/TN_Bolus.JPG" title="example image" style="width:40%" %}
+        {% include figure.liquid loading="eager" path="assets/img/TN_Bolus.JPG" title="example image" style="height:250px; width:auto;" %}
     </div>
 </div>
 
