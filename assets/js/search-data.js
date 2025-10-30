@@ -424,6 +424,11 @@ ninja.data = [{
           description: "a new design paradigm",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_soroforge/";
+            },},{id: "projects-whiskers",
+          title: 'whiskers',
+          description: "imitating nature",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_whiskers/";
             },},{
         id: 'social-email',
         title: 'email',
