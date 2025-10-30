@@ -1,33 +1,28 @@
 ---
 
 layout: page
-title: Delivering Precise Drug Doses
+title: Nitinol Phase Transition
 description: A Bolus Dose Mechanism
-img: /assets/img/bolus_1.PNG
+img: assets/img/TN_SMAHinge.png
 importance: 1
 category: work
-related_publications: false
+related_publications: true
 ---------------------------
 
 ## Delivering Precise Drug Doses
 
-I led a blank-slate design effort for a novel mechanism which delivers a small but precise bolus dose of liquid drug to a patient from a wearable delivery device. The design process was very thorough - our team posed over a dozen prototypes and downselected to three for prototyping using Pugh matrix methodology.
+Nickel-Titanium Alloyys
 
-I executed the detail design process on one of the concepts that I originated, sourcing custom parts from three suppliers and commodity components online.
+Over the course of several years while I worked towards my graduate degrees, I built a coupled electrical/thermal/mechanical model of shape memory alloy (SMA) actuators capable of predicting their performance in medical devices. 
 
-My design features a spring-loaded piston with a custom overmolded seal, nested inside a rotary cam mechanism.
+The dynamics are handled with a nonlinear Newton-Raphson solver that I wrote using the equations of state, along with a custom adaptive-step time integration scheme.
 
-A micromachined rack and gear converts input translational motion into rotation of the mechanism, which loads and delivers the dose when actuation force is applied to the input rack. I designed custom sliding face seals that wipe across the underside of the rotating mechanism, controlling the hydraulic connectivity between the pump piston and draw/dispense lines with high precision.
+At our clients’ request I worked closely with Mathworks developers for six months to re-implement the model as a custom Simulink block, enabling effective evaluation of a number of alternative designs and implementations, and supporting the down-selection based on high level design criteria like energy consumption and reliability.
 
-This design was highly constrained in multiple dimensions: overall size, cost, force to actuate, ease of assembly, and above all, patient safety. I performed comprehensive static force balance analysis to correctly tolerance interference fits, drive sliding contact dimensions, and size the antagonistic springs which support dose and seal functions.
-
-When components arrived, I assembled and tested 10 replicates of the design and delivered them to the client. Their rigorous internal testing demonstrated that my design reduced dose variability from 6.6% to 1.0%, and it was granted US Pat. 11007317.
+I completed this model in my capacity as an numerical modeling specialist at FPrin LLC, a trusted first-principles based engineering consulting firm specializing in development of breakthrough medical device products. A full whitepaper describing the model implementation can be obtained from their resources page.
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="/assets/img/bolus_1.jpg" title="Prototype of bolus dose mechanism" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="/assets/img/bolus_2.jpg" title="Internal components of the delivery mechanism" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/sma_1.webp" title="Phase Transition Diagram" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
