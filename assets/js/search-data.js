@@ -419,9 +419,9 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-the-perfect-dose",
-          title: 'the perfect dose',
-          description: "design beginnings",
+            },},{id: "projects-soroforge",
+          title: 'SoRoForge',
+          description: "a new design paradigm",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_soroforge/";
             },},{
