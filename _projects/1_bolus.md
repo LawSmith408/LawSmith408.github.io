@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 2
+title: Bolus Dose
 description: with background image
 img: assets/img/12.jpg
 importance: 1
@@ -8,36 +8,22 @@ category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I led a blank-slate design effort for a novel mechanism which delivers a small but precise bolus dose of liquid drug to a patient from a wearable delivery device. The design process was very thorough - our team posed over a dozen prototypes and downselected to three for prototyping using Pugh matrix methodology.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+I executed the detail design process on one of the concepts that I originated, sourcing custom parts from three suppliers and commodity components online.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+My design features a spring-loaded piston with a custom overmolded seal, nested inside a rotary cam mechanism.
+
+A micromachined rack and gear converts input translational motion into rotation of the mechanism, which loads and delivers the dose when actuation force is applied to the input rack. I designed custom sliding face seals that wipe across the underside of the rotating mechanism, controlling the hydraulic connectivity between the pump piston and draw/dispense lines with high precision.
+
+This design was highly constrained in multiple dimensions: overall size, cost, force to actuate, ease of assembly, and above all, patient safety. I performed comprehensive static force balance analysis to correctly tolerance interference fits, drive sliding contact dimensions, and size the antagonistic springs which support dose and seal functions.
+
+When components arrived, I assembled and tested 10 replicates of the design and delivered them to the client. Their rigorous internal testing demonstrated that my design reduced dose variability from 6.6% to 1.0%, and it was granted [US Pat. 11007317](https://patents.google.com/patent/US7517335B2/en?oq=US7517335B2).
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/bolus_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
