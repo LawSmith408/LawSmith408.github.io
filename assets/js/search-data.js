@@ -414,16 +414,16 @@ ninja.data = [{
           description: "design beginnings",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_bolus/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
             },},{id: "projects-soroforge",
           title: 'SoRoForge',
           description: "a new design paradigm",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_soroforge/";
+            },},{id: "projects-digital-materials",
+          title: 'digital materials',
+          description: "inverse material design",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_synthetic%20tissues/";
             },},{id: "projects-whiskers",
           title: 'whiskers',
           description: "imitating nature",
