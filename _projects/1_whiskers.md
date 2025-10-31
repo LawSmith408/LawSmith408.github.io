@@ -8,7 +8,9 @@ category: fun
 related_publications: false
 ---
 
-Nature uses soft materials effortlessly.
+Nature
+
+Check out the GitHub repository for tutorials on simulating your own whisker structures with arbitrary.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
