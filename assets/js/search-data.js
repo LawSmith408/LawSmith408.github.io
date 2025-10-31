@@ -414,6 +414,11 @@ ninja.data = [{
           description: "design beginnings",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_bolus/";
+            },},{id: "projects-smashing-science",
+          title: 'smashing science',
+          description: "and protecting minds",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_impact/";
             },},{id: "projects-soroforge",
           title: 'SoRoForge',
           description: "a new design paradigm",
