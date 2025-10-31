@@ -2,7 +2,7 @@
 layout: page
 title: SoRoForge
 description: a new design paradigm
-img: assets/img/logo1.webp
+img: assets/img/soroforge/logo1.webp
 importance: 1
 category: fun
 related_publications: false
@@ -15,7 +15,7 @@ It turns out they're also a perfect example of the shortcomings of our tradition
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/CASE_Gallery_Website2.webp" title="example image" style="width:100%" %}
+        {% include figure.liquid loading="eager" path="assets/img/soroforge/CASE_Gallery_Website2.webp" title="example image" style="width:100%" %}
     </div>
 </div>
 
@@ -24,9 +24,10 @@ As a result, soft robot design requires the development of multi-domain expertis
 Instead of relying on familiar but ultimately fragile CAD representations for complex 3D designs, I invoke computational network representations of implicit geometry functions to describe robot shapes.
 
 <iframe width="560" height="315"
-  src="https://youtu.be/re_9QF8w0bk"
+  src="https://www.youtube.com/embed/re_9QF8w0bk"
   title="YouTube video"
   frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
 </iframe>
 
@@ -37,7 +38,7 @@ The core representations of designs in SoRoForge are, in contrast to traditional
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/FlowChartFinal.webp" title="example image" style="width:100%" %}
+        {% include figure.liquid loading="eager" path="assets/img/soroforge/FlowChartFinal.webp" title="example image" style="width:100%" %}
     </div>
 </div>
 

@@ -2,7 +2,7 @@
 layout: page
 title: the perfect dose
 description: design beginnings
-img: assets/img/TN_Bolus.JPG
+img: assets/img/thumbnails/TN_Bolus.JPG
 importance: 1
 category: work
 related_publications: false
@@ -14,10 +14,10 @@ Brainstorming methods, materials selection, parameter optimization, constraints 
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bolus_2.jpg" title="example image" style="height:250px; width:auto;" %}
+        {% include figure.liquid loading="eager" path="assets/img/bolus/bolus_2.jpg" title="example image" style="height:250px; width:auto;" %}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bolus_3.gif" title="example image" style="height:250px; width:auto;" %}
+        {% include figure.liquid loading="eager" path="assets/img/bolus/bolus_3.gif" title="example image" style="height:250px; width:auto;" %}
     </div>
 </div>
 
@@ -29,10 +29,10 @@ A micromachined rack and gear converts input translational motion into rotation 
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bolus_4.gif" title="example image" style="height:250px; width:auto;" %}
+        {% include figure.liquid loading="eager" path="assets/img/bolus/bolus_4.gif" title="example image" style="height:250px; width:auto;" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/TN_Bolus.JPG" title="example image" style="height:250px; width:auto;" %}
+        {% include figure.liquid loading="eager" path="assets/img/thumbnails/TN_Bolus.JPG" title="example image" style="height:250px; width:auto;" %}
     </div>
 </div>
 

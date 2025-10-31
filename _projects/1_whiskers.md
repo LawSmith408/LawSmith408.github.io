@@ -2,7 +2,7 @@
 layout: page
 title: whiskers
 description: imitating nature
-img: assets/img/logo1.webp
+img: assets/img/whiskers/whisker_2.gif
 importance: 1
 category: fun
 related_publications: false
