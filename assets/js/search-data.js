@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-digital-tangible",
+          title: "Digital. Tangible.",
+          description: "by building computational design tools on a foundation of traditional design expertise.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "nav-publications",
           title: "publications",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
-          },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "dive into my projects here.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
           title: "repositories",
@@ -29,13 +29,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
-          },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -419,9 +412,14 @@ ninja.data = [{
           description: "and protecting minds",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_impact/";
+            },},{id: "projects-lean-modeling",
+          title: 'lean modeling',
+          description: "learning FEA in the crucible of industry",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_injector/";
             },},{id: "projects-soroforge",
           title: 'SoRoForge',
-          description: "a new design paradigm",
+          description: "a new design paradigm for pneumatic soft robots",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_soroforge/";
             },},{id: "projects-digital-materials",
@@ -429,9 +427,9 @@ ninja.data = [{
           description: "inverse material design",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_synthetic%20tissues/";
-            },},{id: "projects-whiskers",
-          title: 'whiskers',
-          description: "imitating nature",
+            },},{id: "projects-elegant-whiskers",
+          title: 'elegant whiskers',
+          description: "sensing the world with touch",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_whiskers/";
             },},{
