@@ -1,18 +1,36 @@
 ---
 layout: page
-title: smashing science
-description: and protecting minds
+title: absorbing impacts
+description: and bouncing back
 img: assets/img/impact/bounce_2_light.gif
 importance: 1
 category: move like nature
 related_publications: false
 ---
 
-Protecting fragile objects and people from impacts requires materials that can absorb energy without transmitting dangerous peak forces. Traditional foams are widely used because they are inexpensive and isotropic, but they collapse unpredictably and eventually densify under strain. Once densified, they transfer large stresses to the protected object.
+Protecting fragile objects and people from impacts requires materials that can absorb energy without transmitting dangerous peak forces. In my final year of PhD research, I combined numerical modeling and experimental approaches to characterize a new class lattice materials which absorb impact energy then recover elastically.
 
-In contrast, the ideal energy absorber, as first described by Ashby, has a square force–displacement profile: it compresses at a constant force across the full stroke, absorbing the entire impact energy without ever densifying. This “box-shaped” response is what we aim to realize through architected lattice geometries.
+<div class="row">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/impact/B1.gif" title="example image" style="height:250px; width:auto;" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/bolus/B2.gif" title="example image" style="height:250px; width:auto;" %}
+    </div>
+</div>
 
-Our lab investigates plate lattice metamaterials as a promising path toward this ideal. By tailoring lattice geometry, we can design absorbers that respond predictably to impacts across a wide range of energies. 
+My approach uses a custom constructive geometry toolbox, the most challenging finite element simulations I have executed, and a custom test apparatus for recording performance in high speed impact scenarios. These metamaterials transmit up to six times more useful impact energy at equivalent density compared to isotropic foams.
+
+<div class="row">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/impact/impact_rig.png title="example image" style="height:250px; width:auto;" %}
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/bolus/Picture1.png" title="example image" style="height:250px; width:auto;" %}
+    </div>
+</div>
+
+The work was published in [Advanced Materials Technologies](https://advanced.onlinelibrary.wiley.com/doi/10.1002/admt.202301668) and reported in the [Denver Post](https://www.denverpost.com/2024/02/12/cu-boulder-creates-new-padding-that-could-improve-bike-football-helmet-safety/) and [Boulder Daily Camera](https://www.dailycamera.com/2024/02/12/cu-boulder-creates-new-padding-that-could-improve-bike-football-helmet-safety/)
 
 <div class="container-xxl px-0 my-4">
   <div class="row justify-content-center">
@@ -32,14 +50,3 @@ Our lab investigates plate lattice metamaterials as a promising path toward this
   </div>
 </div>
 ---
-
-<!-- 
-<div class="row">
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ConstraintManifoldThreeSpace.gif" title="example image" style="width:100%" %}
-    </div>
-</div>
-<div class="caption">
-    Constraint manifold visualized in material property three-space, showing combinations of simultaneously achieveable of material properties. Black points show results from experimental measurements. Purple and green points show that arbitrary, continuous trajectories across this manifold can be drawn, allowing designers to specify **locally nonuniform, smoothly graded, indepentently controllable** material properties.
-</div>
--->

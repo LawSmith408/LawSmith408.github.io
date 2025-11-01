@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Digital. Tangible.
+title: projects
 permalink: /projects/
-description:  by building computational design tools on a foundation of traditional design expertise. 
+description:  building computational design tools on a foundation of traditional design expertise
 nav: true
 nav_order: 2
 display_categories: [move like nature, feel like nature, my foundations]

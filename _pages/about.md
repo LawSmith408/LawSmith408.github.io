@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://is.mpg.de/'>Max Planck Institute for Intelligent Systems</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://is.mpg.de/person/lsmith/'>Max Planck Institute for Intelligent Systems</a>.
 
 profile:
   align: right
