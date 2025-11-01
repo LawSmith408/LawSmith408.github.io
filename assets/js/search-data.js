@@ -9,9 +9,9 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-digital-tangible",
-          title: "Digital. Tangible.",
-          description: "by building computational design tools on a foundation of traditional design expertise.",
+  },{id: "nav-projects",
+          title: "projects",
+          description: "building computational design tools on a foundation of traditional design expertise",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -407,9 +407,9 @@ ninja.data = [{
           description: "design beginnings",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_bolus/";
-            },},{id: "projects-smashing-science",
-          title: 'smashing science',
-          description: "and protecting minds",
+            },},{id: "projects-absorbing-impacts",
+          title: 'absorbing impacts',
+          description: "and bouncing back",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_impact/";
             },},{id: "projects-lean-modeling",
@@ -417,14 +417,14 @@ ninja.data = [{
           description: "learning FEA in the crucible of industry",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_injector/";
-            },},{id: "projects-soroforge",
-          title: 'SoRoForge',
+            },},{id: "projects-soft-is-strong",
+          title: 'soft is strong',
           description: "a new design paradigm for pneumatic soft robots",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_soroforge/";
-            },},{id: "projects-digital-materials",
-          title: 'digital materials',
-          description: "inverse material design",
+            },},{id: "projects-digital-flesh",
+          title: 'digital flesh',
+          description: "inverse design of biological tissue mimics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_synthetic%20tissues/";
             },},{id: "projects-elegant-whiskers",
@@ -437,14 +437,28 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%6C%73%6D%69%74%68@%69%73.%6D%70%67.%64%65", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://github.com/LawSmith408", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/lawrence-smith-413a1232", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0002-3418-2282", "_blank");
         },
       },{
         id: 'social-rss',
@@ -458,14 +472,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=5WBRnCEAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
