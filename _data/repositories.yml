@@ -4,9 +4,8 @@ github_users:
 github_repos:
   - LawSmith408/WhiskerAnalyses
   - LawSmith408/nodewiseProcesses
+  - MacCurdyLab/SoRoForge
+  - MacCurdyLab/DigitalMultiphaseMaterials
   - LawSmith408/TrussGrabber
   - LawSmith408/splineRegionExtractor
   - LawSmith408/LDS_nd
-  - MacCurdyLab/SoRoForge
-  - MacCurdyLab/DigitalMultiphaseMaterials
-  - MacCurdyLab/PlateLatticeAnalysis
