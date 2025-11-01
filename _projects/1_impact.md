@@ -3,7 +3,7 @@ layout: page
 title: bouncing back
 description: metamaterials for impact absorbtion 
 img: assets/img/impact/bounce_2_light.gif
-importance: 3
+importance: 1
 category: move like nature
 related_publications: false
 ---

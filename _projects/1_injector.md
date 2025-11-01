@@ -1,7 +1,7 @@
 ---
 layout: page
 title: lean modeling
-description: learning FEA in the crucible of industry
+description: FEA in the crucible of med-device industry
 img: assets/img/stv/stv_light2.gif
 importance: 1
 category: my foundations

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: the perfect dose
-description: design beginnings
+description: my design beginnings
 img: assets/img/thumbnails/TN_Bolus.JPG
 importance: 1
 category: my foundations

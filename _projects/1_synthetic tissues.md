@@ -4,7 +4,7 @@ title: digital flesh
 description: inverse design of biological tissue mimics
 img: assets/img/digitalmaterials/lattice_light.gif
 importance: 1
-category: feel like nature
+category: my foundations
 related_publications: false
 ---
 

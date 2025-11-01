@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description:  building computational design tools on a foundation of traditional design expertise
+description:  advanced design with computational tools built on a foundation of traditional design expertise
 nav: true
 nav_order: 2
-display_categories: [move like nature, feel like nature, my foundations]
+display_categories: [move like nature, my foundations]
 horizontal: false
 ---
 

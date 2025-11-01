@@ -8,10 +8,9 @@ category: move like nature
 related_publications: false
 ---
 
-What's in a soft robot?
-Simply put, it’s a robotic system composed of soft, compliant materials. Soft robots manipulate fragile objects and tolerate large disturbances from their environments better than their traditional "rigid robot" counterparts. 
+A soft robotic system is composed of soft, compliant materials. Soft robots manipulate fragile objects and tolerate large disturbances from their environments better than their traditional "rigid robot" counterparts. 
 
-They're also a perfect example of the shortcomings of our traditional design practices. Soft structures are governed by non-intuitive mechanics, are challenging to simulate, are fabricated differently than traditional low-DOF mechanical systems, and are ill-represented by traditional component/subassy/assy hierarchies. 
+They're also a perfect example of the **shortcomings** of our traditional design practices. Soft structures are governed by non-intuitive mechanics, are challenging to simulate, are fabricated differently than traditional low-DOF mechanical systems, and are ill-represented by traditional component/subassy/assy hierarchies. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -19,7 +18,7 @@ They're also a perfect example of the shortcomings of our traditional design pra
     </div>
 </div>
 
-As a result, soft robot design requires the development of multi-domain expertise (e.g. advanced computer-aided design , nonlinear simulation, and advanced fabrication) - an expensive process! Enter SoRoForge - my open-source design tool which uses implicit geometry modeling, automatic execution of nonlinear FEA simulations, and 3D printing to rethink our design practices.
+As a result, soft robot design requires the development of multi-domain expertise (e.g. advanced computer-aided design , nonlinear simulation, and advanced fabrication) - expensive! to fill this gap, I spent three years writing SoRoForge - an open-source design tool which uses implicit geometry modeling, automatic execution of nonlinear FEA simulations, and 3D printing to rethink our design practices.
 
 Instead of relying on familiar but ultimately fragile CAD representations for complex 3D designs, I invoke computational network representations of implicit geometry functions to describe robot shapes.
 
