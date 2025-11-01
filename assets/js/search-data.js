@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "building computational design tools on a foundation of traditional design expertise",
+          description: "advanced design with computational tools built on a foundation of traditional design expertise",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -404,7 +404,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-the-perfect-dose",
           title: 'the perfect dose',
-          description: "design beginnings",
+          description: "my design beginnings",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_bolus/";
             },},{id: "projects-bouncing-back",
@@ -414,7 +414,7 @@ ninja.data = [{
               window.location.href = "/projects/1_impact/";
             },},{id: "projects-lean-modeling",
           title: 'lean modeling',
-          description: "learning FEA in the crucible of industry",
+          description: "FEA in the crucible of med-device industry",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_injector/";
             },},{id: "projects-soft-is-strong",
@@ -427,9 +427,9 @@ ninja.data = [{
           description: "inverse design of biological tissue mimics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_synthetic%20tissues/";
-            },},{id: "projects-elegant-whiskers",
-          title: 'elegant whiskers',
-          description: "sensing the world with touch",
+            },},{id: "projects-graded-whiskers",
+          title: 'graded whiskers',
+          description: "unravelling the hidden properties of whiskers",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_whiskers/";
             },},{
