@@ -1,7 +1,7 @@
 ---
 layout: page
 title: the perfect dose
-description: my design beginnings
+description: beginnings in mechanical design
 img: assets/img/bolus/TN_Bolus.JPG
 importance: 1
 category: my foundations

@@ -29,7 +29,7 @@ By forming analytical mappings between relative concentrations of constituents a
     <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/digitalmaterials/ConstraintManifoldThreeSpace.gif" title="constraint manifold" style="width:100%" %}
     </div>
-    <div class="col-sm-8">
+    <div class="col-sm-7 mt-3 mt-md-0">
         Constraint manifold visualized in material property three-space, showing combinations of simultaneously achieveable material properties. Black points show results from experimental measurements. Purple and green points show that arbitrary, continuous trajectories across this manifold can be drawn, allowing designers to specify **locally nonuniform, smoothly graded, indepentently controllable** material properties.
     </div>
 </div>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: soft is strong
+title: leveraging compliance
 description: a new design paradigm for pneumatic soft robots
 img: assets/img/soroforge/twist_small2.gif
 importance: 1
@@ -46,7 +46,7 @@ The best models strike a balance between two competing, antagonistic goals:
 - realism / accuracy
 - computational cost
 
-I investigate the use of shell finite elements in simulating pneumatic soft actuators - this method strikes a more favorable balance between the two objectives than traditional volumetric FEA and helps speed up design exploration. Read more about this research.
+I advocate the use of **shell finite elements** in simulating pneumatic soft actuators - this method strikes a more favorable balance between the two objectives than traditional volumetric FEA and helps speed up design exploration.  [Conference publication](https://ieeexplore.ieee.org/document/9762108) for details!
 
 <iframe width="560" height="315"
   src="https://www.youtube.com/embed/ddnvE8hdn08?si=QPtgs8vO4oyYVf92" 
@@ -57,9 +57,9 @@ I investigate the use of shell finite elements in simulating pneumatic soft actu
 </iframe>
 
 
-Fast, accurate simulations enable computational design - the automatic production of mechanical design solutions that satisfy high level constraints. I built a computational design program around these scripted simulations of soft actuators, and asked it to produce strong, flexible soft actuator designs without any manual input.
+These, accurate simulations enable computational design - the automatic production of mechanical design solutions that satisfy high level constraints. I built a computational design program around these scripted simulations of soft actuators, and asked it to produce strong, flexible soft actuator designs without any manual input.
 
-The results were astounding - after running overnight, the program identified bending soft actuator structures that look very similar to geometries which took years to develop manually! Read more about this research here.
+The results were remarkable - after running overnight, the program identified bending soft actuator structures that look very similar to geometries which took years to develop manually! Read more about this research [here](https://ieeexplore.ieee.org/document/9762105).
 
 <iframe width="560" height="315" 
 src="https://www.youtube.com/embed/pailK-Ou3iw?si=lGZtQwV-bifTOGgR" 
