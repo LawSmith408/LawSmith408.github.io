@@ -404,7 +404,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-the-perfect-dose",
           title: 'the perfect dose',
-          description: "my design beginnings",
+          description: "beginnings in mechanical design",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_bolus/";
             },},{id: "projects-bouncing-back",
@@ -417,8 +417,8 @@ ninja.data = [{
           description: "FEA in the crucible of med-device industry",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_injector/";
-            },},{id: "projects-soft-is-strong",
-          title: 'soft is strong',
+            },},{id: "projects-leveraging-compliance",
+          title: 'leveraging compliance',
           description: "a new design paradigm for pneumatic soft robots",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_soroforge/";
@@ -426,7 +426,7 @@ ninja.data = [{
           title: 'digital flesh',
           description: "inverse design of biological tissue mimics",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_synthetic%20tissues/";
+              window.location.href = "/projects/1_synthetictissues/";
             },},{id: "projects-graded-whiskers",
           title: 'graded whiskers',
           description: "unravelling the hidden properties of whiskers",
