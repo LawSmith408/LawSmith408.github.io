@@ -1,16 +1,14 @@
 ---
 layout: page
-title: whiskers
-description: imitating nature
+title: elegant whiskers
+description: sensing the world with touch
 img: assets/img/whiskers/whisker_2.gif
 importance: 1
-category: fun
+category: feel like nature
 related_publications: false
 ---
 
-Nature
-
-Check out the GitHub repository for tutorials on simulating your own whisker structures with arbitrary.
+Nature produces designs with astonishing geometric complexity across length scales, achieving highly tuned performance with spatially nonuniform material properties. The closer we zoom in, the more beautiful the arrangement of matter becomes, and the more we are prompted to ask - why does it look this way?
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -18,3 +16,8 @@ Check out the GitHub repository for tutorials on simulating your own whisker str
     </div>
 </div>
 
+<!-->
+The whiskers on an elephant's trunk exemplify this: delicate sensing structures which expand the trunk's sensing volume while enduring impacts and large contact loads. In a collaboration with [Andrew Schultz](https://www.schulzscience.com/) of the [Haptic Intelligence Department](https://is.mpg.de/hi) at the Max Planck Institute for Intelligent Systems, I helped uncover the mysteries of the multi-dimenional material property gradients we observe along the length of these whiskers.
+
+Check out the GitHub repository for tutorials on simulating your own whisker structures with various geometries and functional gradients.
+<!-->

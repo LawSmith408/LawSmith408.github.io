@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Digital. Tangible.
 permalink: /projects/
-description: dive into my projects here.
+description:  by building computational design tools on a foundation of traditional design expertise. 
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 2
+display_categories: [move like nature, feel like nature, my foundations]
 horizontal: false
 ---
 

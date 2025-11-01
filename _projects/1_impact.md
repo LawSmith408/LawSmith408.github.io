@@ -4,7 +4,7 @@ title: smashing science
 description: and protecting minds
 img: assets/img/impact/bounce_2_light.gif
 importance: 1
-category: fun
+category: move like nature
 related_publications: false
 ---
 

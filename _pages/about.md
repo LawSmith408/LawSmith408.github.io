@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My specialty: driving design foward across uncertain terrain using **numerical modeling** and deep knowledge of traditional and **emerging fabrication technologies**. 
+Digital. Tangible.
 
-I work as a postdoctoral researcher at the [Max Planck Intitute for Intelligent Systems](https://is.mpg.de/en) developing soft electrostatic transducers. I hold a PhD and MS in Mechanical Engineering from the University of Colorado Boulder, where I explored the **computational design** of soft structures in the [Matter Assembly Computation Lab](https://matterassembly.org/).
+I explore rugged and uncertain design terrain using **numerical modeling** and deep knowledge of traditional and **emerging fabrication technologies**. 
+
+I'm a postdoctoral researcher at the [Max Planck Intitute for Intelligent Systems](https://is.mpg.de/en) where I develop soft electrostatic transducers. I hold a PhD and MS in Mechanical Engineering from the University of Colorado Boulder, where I explored the **computational design** of soft structures in the [Matter Assembly Computation Lab](https://matterassembly.org/).
 
 I've learned medical device design at [Triple Ring Technologies](https://www.tripleringtech.com/) in Newark, California, and consulted for years as a numerical modeling specialist with [FPrin](https://fprin.com/). Outside of work, I enjoy hiking and running around Stuttgart, cluttering my apartment with trinkets, and playing billiards.

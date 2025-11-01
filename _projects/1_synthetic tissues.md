@@ -2,9 +2,9 @@
 layout: page
 title: digital materials
 description: inverse material design
-img: assets/img/logo1.webp
+img: assets/img/digitalmaterials/lattice_light
 importance: 1
-category: fun
+category: feel like nature
 related_publications: false
 ---
 
@@ -16,7 +16,7 @@ Using multi-material inkjet 3D printing, we can control the per-droplet depositi
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/DMM_Fig2_ABC.PNG" title="example image" style="width:100%" %}
+        {% include figure.liquid loading="eager" path="assets/img/digitalmaterials/DMM_Fig2_ABC.PNG" title="example image" style="width:100%" %}
     </div>
 </div>
 
@@ -37,9 +37,9 @@ By forming analytical mappings between relative concentrations of constituents a
 
 <div class="row align-items-center">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ConstraintManifoldThreeSpace.gif" title="example image" style="width:100%" %}
+        {% include figure.liquid loading="eager" path="assets/img/digitalmaterials/ConstraintManifoldThreeSpace.gif" title="constraint manifold" style="width:100%" %}
     </div>
     <div class="col-sm-8">
-        Constraint manifold visualized in material property three-space, showing combinations of simultaneously achieveable material properties. Black points show results from experimental measurements. Purple and green points show that arbitrary, continuous trajectories across this manifold can be drawn, allowing designers to specify <strong>locally nonuniform, smoothly graded, indepentently controllable</strong> material properties.
+        Constraint manifold visualized in material property three-space, showing combinations of simultaneously achieveable material properties. Black points show results from experimental measurements. Purple and green points show that arbitrary, continuous trajectories across this manifold can be drawn, allowing designers to specify **locally nonuniform, smoothly graded, indepentently controllable** material properties.
     </div>
 </div>
