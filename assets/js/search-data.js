@@ -433,18 +433,18 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_whiskers/";
             },},{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=5WBRnCEAAAAJ", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
           window.open("mailto:%6C%73%6D%69%74%68@%69%73.%6D%70%67.%64%65", "_blank");
-        },
-      },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/LawSmith408", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -454,25 +454,11 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/lawrence-smith-413a1232", "_blank");
         },
       },{
-        id: 'social-orcid',
-        title: 'ORCID',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0000-0002-3418-2282", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=5WBRnCEAAAAJ", "_blank");
+          window.open("https://github.com/LawSmith408", "_blank");
         },
       },{
       id: 'light-theme',
