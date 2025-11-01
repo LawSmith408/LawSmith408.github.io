@@ -10,7 +10,9 @@ related_publications: false
 
 I honed my ability to  performance of medical devices using **computational modeling** while consulting with [FPrin](https://fprin.com/) in San Jose, California. Learning to wield nonlinear finite element codes "in the wild," subject to project timelines and budgets, was an education in itself, providing invaluable context for my later academic research.
 
-Consultancy imposes specific constraints on numerical modeling, rewarding the fastest route to a correct answer and penalizing extraneous model complexity, however interesting. To cut directly to the core of a mechanics problem, to identify the correct level of abstraction that yields a lightweight yet insightful analysis, to perform the required level of analysis and no more: this is what I learned across a swath of FPrin projects.
+Consultancy imposes specific constraints on numerical modeling, rewarding the fastest route to a correct answer and penalizing extraneous model complexity, however interesting. 
+
+To cut directly to the core of a mechanics problem, to identify the correct level of abstraction that yields a lightweight yet insightful analysis, to perform the required level of analysis and no more: this is what I learned across a swath of FPrin projects.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
