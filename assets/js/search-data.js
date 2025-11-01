@@ -407,9 +407,9 @@ ninja.data = [{
           description: "design beginnings",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_bolus/";
-            },},{id: "projects-absorbing-impacts",
-          title: 'absorbing impacts',
-          description: "and bouncing back",
+            },},{id: "projects-bouncing-back",
+          title: 'bouncing back',
+          description: "metamaterials for impact absorbtion",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_impact/";
             },},{id: "projects-lean-modeling",
