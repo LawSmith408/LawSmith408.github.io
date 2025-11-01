@@ -2,7 +2,7 @@
 layout: page
 title: soft is strong
 description: a new design paradigm for pneumatic soft robots
-img: assets/img/soroforge/twist_small.gif
+img: assets/img/soroforge/twist_small2.gif
 importance: 1
 category: move like nature
 related_publications: false

@@ -2,7 +2,7 @@
 layout: page
 title: lean modeling
 description: learning FEA in the crucible of industry
-img: assets/img/stv/stv_dark.gif
+img: assets/img/stv/stv_light2.gif
 importance: 1
 category: my foundations
 related_publications: false
