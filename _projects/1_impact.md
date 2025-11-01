@@ -23,7 +23,7 @@ My approach uses a custom constructive geometry toolbox, the most challenging fi
 
 <div class="row">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/impact/impact_rig.png title="example image" style="height:250px; width:auto;" %}
+        {% include figure.liquid loading="eager" path="assets/img/impact/impact_rig.png" title="example image" style="height:250px; width:auto;" %}
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/bolus/Picture1.png" title="example image" style="height:250px; width:auto;" %}
