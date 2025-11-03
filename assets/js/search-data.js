@@ -412,8 +412,8 @@ ninja.data = [{
           description: "metamaterials for impact absorbtion",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_impact/";
-            },},{id: "projects-lean-modeling",
-          title: 'lean modeling',
+            },},{id: "projects-nonlinear-modeling",
+          title: 'nonlinear modeling',
           description: "FEA in the crucible of med-device industry",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_injector/";
@@ -422,13 +422,13 @@ ninja.data = [{
           description: "a new design paradigm for pneumatic soft robots",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_soroforge/";
-            },},{id: "projects-digital-flesh",
-          title: 'digital flesh',
+            },},{id: "projects-synthetic-flesh",
+          title: 'synthetic flesh',
           description: "inverse design of biological tissue mimics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_synthetictissues/";
-            },},{id: "projects-graded-whiskers",
-          title: 'graded whiskers',
+            },},{id: "projects-elephantine-whiskers",
+          title: 'elephantine whiskers',
           description: "unravelling the hidden properties of whiskers",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_whiskers/";
