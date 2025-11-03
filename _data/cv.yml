@@ -1,4 +1,4 @@
-- title: General Information
+- title: about me
   type: map
   contents:
     - name: Full Name
@@ -23,7 +23,7 @@
   contents:
     - title: Postdoctoral Researcher
       institution: Max Planck Institute for Intelligent Systems, Robotic Materials Department
-      year: 2024–2027 (est.)
+      year: 2024–2027
     - title: Doctoral Candidate & Researcher
       institution: University of Colorado, Boulder
       year: 2018–2023
