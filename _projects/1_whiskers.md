@@ -1,6 +1,6 @@
 ---
 layout: page
-title: graded whiskers
+title: elephantine whiskers
 description: unravelling the hidden properties of whiskers
 img: assets/img/whiskers/whisker_3.gif
 importance: 1

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: digital flesh
+title: synthetic flesh
 description: inverse design of biological tissue mimics
 img: assets/img/digitalmaterials/lattice_light2.gif
 importance: 1
