@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "advanced design with computational tools built on a foundation of traditional design expertise",
+          description: "elegant design with computational tools, built on a foundation of traditional design expertise",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
