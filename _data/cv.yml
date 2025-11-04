@@ -8,7 +8,15 @@
     - name: Date of Birth
       value: 29th November 1990
     - name: Languages
-      value: English <em>native</em>, German <em>A2</em>, German <em>B1</em>,
+      value: English <em>native</em>, German <em>A2</em>, German <em>B1</em>
+
+- title: Projects
+  type: map
+  contents:
+    - name: Computational Design
+      value: Automatic production of solutions to challenging mechanical design problems, specifically in nonlinear design spaces where human intuition struggles. Core contributions include compact and flexible design representations, accelerated numerical models of physical phenomena, and synthesis of design, simulation, and fabrication processes.
+    - name: Additive Manufacturing
+      value: Squeezing the capabilities of cutting edge additive manufacturing technologies to create multiphase, multimaterial, multiscale complex artifacts.
 
 - title: Experience
   type: time_table
