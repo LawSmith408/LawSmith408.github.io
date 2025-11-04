@@ -13,7 +13,7 @@ I learned the fundamentals of mechanical design in the **medical device space** 
 Brainstorming methods, materials selection, parameter optimization, constraints of machining and molding processes, design validation; an iterative process to systematically produce **functional, elegant** prototypes.
 
 <div class="row">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-5 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/bolus/bolus_2.jpg" title="example image" style="height:250px; width:auto;" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -28,7 +28,7 @@ This design was highly constrained in multiple dimensions: overall size, cost, f
 A micromachined rack and gear converts input translational motion into rotation of the mechanism, which loads and delivers a single dose when a user pushes into the rack. Wonderful - but how does design change when we build with soft matter and non-conventional fabrication technologies? I went back to grad school to find out.
 
 <div class="row">
-    <div class="col-sm-7 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/bolus/bolus_4.gif" title="example image" style="height:250px; width:auto;" %}
     </div>
     <div class="col-sm-5 mt-3 mt-md-0">

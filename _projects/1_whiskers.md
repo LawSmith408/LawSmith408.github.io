@@ -1,6 +1,6 @@
 ---
 layout: page
-title: elephantine whiskers
+title: vibrotactile sensing
 description: unravelling the hidden properties of whiskers
 img: assets/img/whiskers/whisker_3.gif
 importance: 1

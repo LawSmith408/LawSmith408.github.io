@@ -11,28 +11,29 @@
 - title: Research Interests
   type: map
   contents:
-    - name: Focus
-      value: >
-        Computational Design — automatic production of solutions to challenging mechanical
-        design problems, specifically in nonlinear design spaces where human intuition struggles.
-        Core contributions include compact and flexible design representations, accelerated numerical
-        models of physical phenomena, and synthesis of design, simulation, and fabrication processes.
+    - name: Computational Design
+      value:
+        Automatic production of solutions to challenging mechanical design problems, specifically in nonlinear design spaces where human intuition struggles.
+        Core contributions include compact and flexible design representations, accelerated numerical models of physical phenomena, and synthesis of design, simulation, and fabrication processes.
+    - name: Additive Manufacturing
+      value:
+        Squeezing the capabilities of cutting edge additive manufacturing technologies to create multiphase, multimaterial, multiscale complex artifacts
 
 - title: Experience
   type: time_table
   contents:
     - title: Postdoctoral Researcher
       institution: Max Planck Institute for Intelligent Systems, Robotic Materials Department
-      year: 2024–2027
+      year: "2024-present"
     - title: Doctoral Candidate & Researcher
       institution: University of Colorado, Boulder
-      year: 2018–2023
+      year: "2018 - 2023"
     - title: Independent Contractor, Engineering Design and Analysis
       institution: FPrin, LLC
-      year: 2018–2024
+      year: "2018 - 2021"
     - title: Mechanical Engineer Lv.1, Lv.2
       institution: Triple Ring Technologies
-      year: 2014–2017
+      year: "2014 - 2017"
 
 - title: Education
   type: time_table
