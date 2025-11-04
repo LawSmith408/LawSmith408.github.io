@@ -430,9 +430,9 @@ ninja.data = [{
           description: "FEA in the crucible of med-device industry",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_injector/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-leveraging-compliance",
+          title: 'leveraging compliance',
+          description: "a new design paradigm for pneumatic soft robots",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_soroforge/";
             },},{id: "projects-synthetic-flesh",
