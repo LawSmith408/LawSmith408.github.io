@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Alexander von Humboldt Fellow 
-  <a href='https://is.mpg.de/person/lsmith/'>Max Planck Institute for Intelligent Systems</a>
+subtitle: Alexander von Humboldt Postdoctoral Fellow 
 
 profile:
   align: right
@@ -34,4 +33,4 @@ I'm a postdoctoral researcher at the [Max Planck Intitute for Intelligent System
 
 I've learned medical device design at [Triple Ring Technologies](https://www.tripleringtech.com/) in Newark, California, and consulted for years as a numerical modeling specialist with [FPrin](https://fprin.com/). 
 
-Outside of work, I enjoy hiking and running around Stuttgart, cluttering my apartment with trinkets, and playing billiards.
+Outside of work, I enjoy hiking and trail running around Stuttgart, cluttering my apartment with trinkets, and playing billiards.
