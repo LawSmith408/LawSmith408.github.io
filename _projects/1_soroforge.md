@@ -1,7 +1,7 @@
 ---
 layout: page
 title: leveraging compliance
-description: a new design paradigm for pneumatic soft robots ([SoRoForge](https://github.com/MacCurdyLab/SoRoForge))
+description: a new design paradigm for pneumatic soft robots: [SoRoForge](https://github.com/MacCurdyLab/SoRoForge)
 img: assets/img/soroforge/twist_small2.gif
 importance: 1
 category: move like nature
@@ -18,7 +18,7 @@ They're also a perfect example of the shortcomings of our traditional design pra
     </div>
 </div>
 
-As a result, soft robot design requires the development of multi-domain expertise (e.g. advanced computer-aided design , nonlinear simulation, and advanced fabrication) - expensive! to fill this gap, I spent three years writing [SoRoForge](https://github.com/MacCurdyLab/SoRoForge - an open-source design tool which uses implicit geometry modeling, automatic execution of nonlinear FEA simulations, and 3D printing to rethink our design practices. Read about design philosophy and technical underpinnings of the platform in the [IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/abstract/document/10041018).
+As a result, soft robot design requires the development of multi-domain expertise (e.g. advanced computer-aided design , nonlinear simulation, and advanced fabrication) - expensive! to fill this gap, I spent three years writing [SoRoForge](https://github.com/MacCurdyLab/SoRoForge) - an open-source design tool which uses implicit geometry modeling, automatic execution of nonlinear FEA simulations, and 3D printing to rethink our design practices. Read about design philosophy and technical underpinnings of the platform in the [IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/abstract/document/10041018).
 
 ## Geometry Descriptions: Sculpting with Math
 Instead of relying on familiar but ultimately fragile CAD representations for complex 3D designs, I invoke computational network representations of **implicit geometry functions** to describe robot shapes.
