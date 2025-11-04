@@ -1,20 +1,18 @@
-- title: basics
+- title: the basics
   type: map
   contents:
     - name: Full Name
       value: Lawrence Smith
     - name: Email
       value: lsmith@is.mpg.de
-    - name: Date of Birth
-      value: 29th November 1990
     - name: Languages
       value: English <em>native</em>, German <em>A2</em>, Spanish <em>B1</em>
 
-- title: research interest
+- title: research interests
   type: map
   contents:
-    - name: Energy Harvesting via Soft Electrostatic Transduction
-      value: Liquid-Solid dielectric systems for harvesting the energy in ocean waves.
+    - name: Electrostatic Transduction
+      value: Soft liquid-solid dielectric systems for harvesting the energy in ocean waves.
     - name: Computational Design
       value: Automatic production of solutions to challenging mechanical design problems, specifically in nonlinear design spaces where human intuition struggles.
     - name: Additive Manufacturing
