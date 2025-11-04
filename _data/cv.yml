@@ -1,4 +1,4 @@
-- title: basics
+- title: Basics
   type: map
   contents:
     - name: Full Name
@@ -8,34 +8,31 @@
     - name: Phone
       value: +49 157 735 86381
 
-- title: projects
+- title: Projects
   type: map
   contents:
     - name: Computational Design
-      value:
-        Automatic production of solutions to challenging mechanical design problems, specifically in nonlinear design spaces where human intuition struggles.
-        Core contributions include compact and flexible design representations, accelerated numerical models of physical phenomena, and synthesis of design, simulation, and fabrication processes.
+      value: Automatic production of solutions to challenging mechanical design problems, specifically in nonlinear design spaces where human intuition struggles. Core contributions include compact and flexible design representations, accelerated numerical models of physical phenomena, and synthesis of design, simulation, and fabrication processes.
     - name: Additive Manufacturing
-      value:
-        Squeezing the capabilities of cutting edge additive manufacturing technologies to create multiphase, multimaterial, multiscale complex artifacts
+      value: Squeezing the capabilities of cutting edge additive manufacturing technologies to create multiphase, multimaterial, multiscale complex artifacts.
 
-- title: work
+- title: Work
   type: time_table
   contents:
     - title: Postdoctoral Researcher
       institution: Max Planck Institute for Intelligent Systems, Robotic Materials Department
-      year: "2024-present"
+      year: "2024–present"
     - title: Doctoral Candidate & Researcher
       institution: University of Colorado, Boulder
-      year: "2018 - 2023"
+      year: "2018–2023"
     - title: Independent Contractor, Engineering Design and Analysis
       institution: FPrin, LLC
-      year: "2018 - 2021"
+      year: "2018–2021"
     - title: Mechanical Engineer Lv.1, Lv.2
       institution: Triple Ring Technologies
-      year: "2014 - 2017"
+      year: "2014–2017"
 
-- title: education
+- title: Education
   type: time_table
   contents:
     - title: PhD
@@ -48,15 +45,15 @@
       institution: California State Polytechnic University, San Luis Obispo, Mechanical Engineering
       year: 2014
 
-- title: awards
+- title: Awards
   type: list
   contents:
-    - Alexander von Humboldt Postoctoral Fellowship
+    - Alexander von Humboldt Postdoctoral Fellowship
     - AB Nexus Spring 2021 Research Collaboration Grant
     - Matching Research Grant, Sandia National Laboratories
     - Finalist, CU Boulder New Venture Challenge 2018
 
-- title: interests
+- title: Interests
   type: map
   contents:
     - name: Design
@@ -68,10 +65,10 @@
     - name: Data Processing & Presentation
       value: Matlab, git, MS Office Suite, LaTeX, Inkscape
 
-- title: references
+- title: References
   type: list
   contents:
-    - Dr. Robert MacCurdy, Ph.D. advisor, CU Boulder — maccurdy@colorado.edu
-    - Dr. Richard Regueiro, Ph.D. committee, CU Boulder — richard.regueiro@colorado.edu
-    - Dr. Vani Sundaram, Colleague, CU Boulder & Max Planck Institute — vsun@is.mpg.de
-    - Peter Holst, Colleague and CEO, FPrin LLC — pholst@fprin.com
+    - "Dr. Robert MacCurdy, Ph.D. advisor, CU Boulder – maccurdy@colorado.edu"
+    - "Dr. Richard Regueiro, Ph.D. committee, CU Boulder – richard.regueiro@colorado.edu"
+    - "Dr. Vani Sundaram, Colleague, CU Boulder & Max Planck Institute – vsun@is.mpg.de"
+    - "Peter Holst, Colleague and CEO, FPrin LLC – pholst@fprin.com"
