@@ -1,4 +1,4 @@
-- title: General Information
+- title: basics
   type: map
   contents:
     - name: Full Name
@@ -8,17 +8,19 @@
     - name: Date of Birth
       value: 29th November 1990
     - name: Languages
-      value: English <em>native</em>, German <em>A2</em>, German <em>B1</em>
+      value: English <em>native</em>, German <em>A2</em>, Spanish <em>B1</em>
 
-- title: Projects
+- title: research interest
   type: map
   contents:
+    - name: Energy Harvesting via Soft Electrostatic Transduction
+      value: Liquid-Solid dielectric systems for harvesting the energy in ocean waves.
     - name: Computational Design
-      value: Automatic production of solutions to challenging mechanical design problems, specifically in nonlinear design spaces where human intuition struggles. Core contributions include compact and flexible design representations, accelerated numerical models of physical phenomena, and synthesis of design, simulation, and fabrication processes.
+      value: Automatic production of solutions to challenging mechanical design problems, specifically in nonlinear design spaces where human intuition struggles.
     - name: Additive Manufacturing
       value: Squeezing the capabilities of cutting edge additive manufacturing technologies to create multiphase, multimaterial, multiscale complex artifacts.
 
-- title: Experience
+- title: work history
   type: time_table
   contents:
     - title: Postdoctoral Researcher
@@ -34,7 +36,7 @@
       institution: Triple Ring Technologies
       year:  2014 – 2017
 
-- title: Education
+- title: education
   type: time_table
   contents:
     - title: PhD
@@ -47,7 +49,7 @@
       institution: California State Polytechnic University, San Luis Obispo, Mechanical Engineering
       year: 2014
 
-- title: Awards
+- title: awards
   type: list
   contents:
     - Alexander von Humboldt Postdoctoral Fellowship
@@ -55,7 +57,7 @@
     - Matching Research Grant, Sandia National Laboratories
     - Finalist, CU Boulder New Venture Challenge 2018
 
-- title: Interests
+- title: interests
   type: map
   contents:
     - name: Design
@@ -66,11 +68,3 @@
       value: Additive manufacturing, laser cutting, mill, lathe, aluminum casting
     - name: Data Processing & Presentation
       value: Matlab, git, MS Office Suite, LaTeX, Inkscape
-
-- title: References
-  type: list
-  contents:
-    - "Dr. Robert MacCurdy, Ph.D. advisor, CU Boulder – maccurdy@colorado.edu"
-    - "Dr. Richard Regueiro, Ph.D. committee, CU Boulder – richard.regueiro@colorado.edu"
-    - "Dr. Vani Sundaram, Colleague, CU Boulder & Max Planck Institute – vsun@is.mpg.de"
-    - "Peter Holst, Colleague and CEO, FPrin LLC – pholst@fprin.com"
