@@ -1,4 +1,4 @@
-- title: about me
+- title: basics
   type: map
   contents:
     - name: Full Name
@@ -8,7 +8,7 @@
     - name: Phone
       value: +49 157 735 86381
 
-- title: Research Interests
+- title: projects
   type: map
   contents:
     - name: Computational Design
@@ -19,7 +19,7 @@
       value:
         Squeezing the capabilities of cutting edge additive manufacturing technologies to create multiphase, multimaterial, multiscale complex artifacts
 
-- title: Experience
+- title: work
   type: time_table
   contents:
     - title: Postdoctoral Researcher
@@ -35,7 +35,7 @@
       institution: Triple Ring Technologies
       year: "2014 - 2017"
 
-- title: Education
+- title: education
   type: time_table
   contents:
     - title: PhD
@@ -48,7 +48,7 @@
       institution: California State Polytechnic University, San Luis Obispo, Mechanical Engineering
       year: 2014
 
-- title: Grants & Awards
+- title: awards
   type: list
   contents:
     - Alexander von Humboldt Postoctoral Fellowship
@@ -56,7 +56,7 @@
     - Matching Research Grant, Sandia National Laboratories
     - Finalist, CU Boulder New Venture Challenge 2018
 
-- title: Competences
+- title: interests
   type: map
   contents:
     - name: Design
@@ -68,32 +68,7 @@
     - name: Data Processing & Presentation
       value: Matlab, git, MS Office Suite, LaTeX, Inkscape
 
-- title: Mentorship
-  type: list
-  contents:
-    - Alex Hale: Test fixture development for cyclic testing of 3D printed components
-    - Aaditya Pore: Development of generic text fixture for pneumatic actuator characterization
-    - Zach Jordan: Test fixture development for multiaxis testing of soft actuators
-    - Jacob Haimes: Simulation scripting for quantitative evaluation of shell finite elements
-    - Xavier Bell: Additive fabrication of multimaterial soft actuators
-    - Shangwen Ma: Website design for showcasing soft robot design software
-    - Sebastian Alexander: continuum sensor calibration
-    - Paul Dreyer: Design for Fabrication (DFM) for pneumatic soft actuators
-    - Graham Williams: Development of particle-based soft matter simulator
-    - Marcus Tsuei: Development of closed loop temperature control chamber for soft material storage
-    - Kirollos Gerges: Tensile testing of 3D-printable soft materials
-
-- title: Invited Talks
-  type: list
-  contents:
-    - Western Colorado University, Spring 2023 — Computational Design of Soft Structures
-    - Sandia National Laboratories, RITS3 Lecture Series 2023 — Tunable Energy-Absorptive Metamaterials via Additive Manufacturing
-    - International Conference on Intelligent Robots and Systems (IROS) 2022 — Accelerated Simulations of Soft Actuator Behavior
-    - CU Boulder Summer Intensive Session 2020 — Introduction to Finite Elements
-    - Rural Colorado high school science class, Spring 2022 — Air quality basics and student symposium
-    - Co-Founder, CU Boulder 3D Printing Club, Spring 2020
-
-- title: References
+- title: references
   type: list
   contents:
     - Dr. Robert MacCurdy, Ph.D. advisor, CU Boulder — maccurdy@colorado.edu
