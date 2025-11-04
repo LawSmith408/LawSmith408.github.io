@@ -440,8 +440,8 @@ ninja.data = [{
           description: "inverse design of biological tissue mimics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_synthetictissues/";
-            },},{id: "projects-elephantine-whiskers",
-          title: 'elephantine whiskers',
+            },},{id: "projects-vibrotactile-sensing",
+          title: 'vibrotactile sensing',
           description: "unravelling the hidden properties of whiskers",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_whiskers/";
