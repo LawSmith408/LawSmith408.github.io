@@ -12,6 +12,7 @@ profile:
     <p>Robotic Materials 3P05</p>
     <p>Heisenbergstrasse 3</p>
     <p>Stuttgart, Germany 70199</p>
+    <p>lsmith@is.mpg.de</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
