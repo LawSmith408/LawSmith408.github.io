@@ -6,6 +6,7 @@ img: assets/img/stv/stv_light2.gif
 importance: 1
 category: my foundations
 related_publications: false
+published: false # temporarily hidden from the site
 ---
 
 I honed my ability to  performance of medical devices using **computational modeling** while consulting with [FPrin](https://fprin.com/) in San Jose, California. Learning to wield nonlinear finite element codes "in the wild," subject to project timelines and budgets, was an education in itself, providing invaluable context for my later academic research.

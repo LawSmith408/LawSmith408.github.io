@@ -3,7 +3,7 @@ layout: page
 title: vibrotactile sensing
 description: unravelling the hidden properties of whiskers
 img: assets/img/whiskers/whisker_3.gif
-importance: 1
+importance: 2
 category: move like nature
 related_publications: false
 ---

@@ -4,7 +4,7 @@ title: leveraging compliance
 description: a new design paradigm for pneumatic soft robots
 img: assets/img/soroforge/twist_small2.gif
 importance: 1
-category: move like nature
+category: my foundations
 related_publications: false
 ---
 

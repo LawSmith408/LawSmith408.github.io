@@ -3,7 +3,7 @@ layout: page
 title: synthetic flesh
 description: inverse design of biological tissue mimics
 img: assets/img/digitalmaterials/lattice_light2.gif
-importance: 1
+importance: 2
 category: my foundations
 related_publications: false
 ---
