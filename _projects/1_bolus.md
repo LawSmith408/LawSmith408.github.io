@@ -3,7 +3,7 @@ layout: page
 title: the perfect dose
 description: beginnings in mechanical design
 img: assets/img/bolus/TN_Bolus.JPG
-importance: 1
+importance: 3
 category: my foundations
 related_publications: false
 ---
@@ -14,7 +14,7 @@ Brainstorming methods, materials selection, parameter optimization, constraints 
 
 <div class="row">
     <div class="col-sm-5 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bolus/bolus_2.jpg" title="example image" style="height:250px; width:auto;" %}
+        {% include figure.liquid loading="eager" path="assets/img/bolus/bolus_2.PNG" title="example image" style="height:250px; width:auto;" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/bolus/bolus_3.gif" title="example image" style="height:250px; width:auto;" %}
