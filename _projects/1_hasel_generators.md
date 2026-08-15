@@ -53,3 +53,9 @@ A quasi-static analytical model explains the mechanisms governing generator beha
 ## why it matters
 
 Solar and wind have had decades of research funding and matured into robust sectors. Wave energy is still early on its curve, which is precisely why the returns on getting it right are large. Zero-emission grid models consistently show that a diverse portfolio of renewables, matched to regional conditions, beats a narrow one - and for coastal regions, waves are the resource sitting unused just offshore.
+
+---
+
+**Competencies:** coupled electrostatic-continuum simulation · nonlinear FEA (Abaqus) · high-voltage test fixture design · dielectric characterization
+
+*See [competences]({{ '/cv/' | relative_url }}#competences) and [work history]({{ '/cv/' | relative_url }}#work-history) on my CV.*

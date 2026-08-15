@@ -57,4 +57,9 @@ The work was published in [Advanced Materials Technologies](https://advanced.onl
     </div>
   </div>
 </div>
+
 ---
+
+**Competencies:** metamaterial design · high-velocity impact simulation · additive manufacturing · mechanical characterization
+
+*See [grants and awards]({{ '/cv/' | relative_url }}#grants-awards) and [patents]({{ '/cv/' | relative_url }}#patents) on my CV.*

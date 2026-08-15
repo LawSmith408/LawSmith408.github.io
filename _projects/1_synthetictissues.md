@@ -33,3 +33,9 @@ By forming analytical mappings between relative concentrations of constituents a
         Constraint manifold visualized in material property three-space, showing combinations of simultaneously achieveable material properties. Black points show results from experimental measurements. Purple and green points show that arbitrary, continuous trajectories across this manifold can be drawn, allowing designers to specify **locally nonuniform, smoothly graded, indepentently controllable** material properties.
     </div>
 </div>
+
+---
+
+**Competencies:** inverse design · multiphase composite modeling · additive manufacturing · mechanical characterization
+
+*See [grants and awards]({{ '/cv/' | relative_url }}#grants-awards) and [competences]({{ '/cv/' | relative_url }}#competences) on my CV.*

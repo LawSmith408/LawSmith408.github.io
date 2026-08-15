@@ -19,3 +19,9 @@ Nature produces designs with astonishing geometric complexity across length scal
 The whiskers on an elephant's trunk exemplify this: delicate sensing structures which expand the trunk's sensing volume while enduring impacts and large contact loads. In a collaboration with [Andrew Schultz](https://www.schulzscience.com/) of the [Haptic Intelligence Department](https://is.mpg.de/hi) at the Max Planck Institute for Intelligent Systems, I helped uncover the mysteries of the multi-dimenional material property gradients we observe along the length of these whiskers. This work was published in [Science](https://www.science.org/doi/10.1126/science.adx8981) in February of 2026.
 
 Check out the [GitHub repository](https://github.com/LawSmith408/WhiskerAnalyses) for tutorials on simulating your own whisker structures with various geometries and functional gradients.
+
+---
+
+**Competencies:** nonlinear FEA · functionally graded materials · simulation of biological structures · experimental validation
+
+*See [competences]({{ '/cv/' | relative_url }}#competences) and [selected publications]({{ '/cv/' | relative_url }}#selected-publications) on my CV.*

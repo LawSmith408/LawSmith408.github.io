@@ -69,3 +69,9 @@ frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
 allowfullscreen>
 </iframe>
+
+---
+
+**Competencies:** computational design automation · shell finite elements · open-source tooling · design-simulation-fabrication workflows
+
+*See [competences]({{ '/cv/' | relative_url }}#competences) and [selected publications]({{ '/cv/' | relative_url }}#selected-publications) on my CV.*

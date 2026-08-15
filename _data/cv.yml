@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Lawrence Smith
+      value: Lawrence T. Smith
     - name: Email
       value: lsmith@is.mpg.de
     - name: Languages
@@ -11,10 +11,10 @@
 - title: research interests
   type: map
   contents:
+    - name: Computational Design for Climate Technology
+      value: Existential challenges require our sharpest tools. I drive the automatic production of solutions to challenging mechanical design problems, specifically in nonlinear design spaces where human intuition struggles. Core contributions include compact and flexible design representations, accelerated numerical models of physical phenomena, and synthesis of design, simulation, and fabrication processes.
     - name: Electrostatic Transduction
       value: Soft liquid-solid dielectric systems for harvesting the energy in ocean waves.
-    - name: Computational Design
-      value: Automatic production of solutions to challenging mechanical design problems, specifically in nonlinear design spaces where human intuition struggles.
     - name: Additive Manufacturing
       value: Squeezing the capabilities of cutting edge additive manufacturing technologies to create multiphase, multimaterial, multiscale complex artifacts.
 
@@ -22,47 +22,130 @@
   type: time_table
   contents:
     - title: Postdoctoral Researcher
-      institution: Max Planck Institute for Intelligent Systems, Robotic Materials Department
-      year: 2024 – present
+      institution: Max Planck Institute for Intelligent Systems
+      department: Robotic Materials Department, supervised by Christoph Keplinger
+      year: 2024 – 2027
+      location: Stuttgart, DE
+      description:
+        - Awarded the Alexander von Humboldt Postdoctoral Fellowship for research into harvesting ocean wave energy using electrostatics
+        - Publication of electrostatic energy generator units with field-leading performance, <em>Advanced Science</em>
+        - Led simulation efforts in investigation of vibrotactile sensing in functionally graded whiskers, <em>Science</em>
+
     - title: Doctoral Candidate & Researcher
       institution: University of Colorado, Boulder
+      department: Supervised by Robert MacCurdy; dissertation on computational design and fabrication of soft structures
       year: 2018 – 2023
+      location: Boulder, CO
+      description:
+        - Award winning conference proceeding and subsequent IEEE journal publication presenting open-source toolkit for seamless design, simulation, and fabrication of pneumatic soft actuators
+        - Designed tunable energy-absorbing metamaterials which transmit 6x lower forces and operate over 10x wider energy bandwidth for personal safety and shipping applications
+
     - title: Independent Contractor, Engineering Design and Analysis
       institution: FPrin, LLC
-      year: 2018 – 2021
+      department: Client-facing expert in numerical modeling for first-principles-based design and analysis
+      year: 2018 – 2024
+      location: Remote
+      description:
+        - Executed and communicated finite element analysis to international medical device client, resulting in retooling of a 16 cavity production mold currently running at 10M units/month volume
+        - Developed novel phase transformation model for shape memory alloys used in insulin pumps (sales >1M units/month); worked directly with Mathworks developers to implement the model
+
     - title: Mechanical Engineer Lv.1, Lv.2
       institution: Triple Ring Technologies
-      year:  2014 – 2017
+      department: Numerical modeling, mechanical design, data analysis, fixture design and validation, and client communication across 20 projects in 3 years
+      year: 2014 – 2017
+      location: Newark, CA
+      description:
+        - Led blank-slate design and fabrication of a novel bolus delivery mechanism for a miniature wearable insulin delivery device
+        - Implemented feedback controller regulating optical sensor temperature to ±1°C in a 510(k) approved oximetry device
+        - Developed core competency in numerical simulation of multiphysics problems (heat transfer, fluid flow, continuum mechanics); delivered two invited technical presentations for COMSOL Inc.
 
 - title: education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Colorado Boulder, Mechanical Engineering
+    - title: PhD, Mechanical Engineering
+      institution: University of Colorado Boulder
       year: 2023
-    - title: MSc
-      institution: University of Colorado Boulder, Mechanical Engineering
+      location: Boulder, CO
+    - title: MSc, Mechanical Engineering
+      institution: University of Colorado Boulder
       year: 2019
-    - title: BSc
-      institution: California State Polytechnic University, San Luis Obispo, Mechanical Engineering
+      location: Boulder, CO
+    - title: BSc, Mechanical Engineering
+      institution: California State Polytechnic University, San Luis Obispo
       year: 2014
+      location: San Luis Obispo, CA
 
-- title: awards
-  type: list
-  contents:
-    - Alexander von Humboldt Postdoctoral Fellowship
-    - AB Nexus Spring 2021 Research Collaboration Grant
-    - Matching Research Grant, Sandia National Laboratories
-    - Finalist, CU Boulder New Venture Challenge 2018
-
-- title: interests
+- title: competences
   type: map
   contents:
+    - name: Numerical Analysis
+      value: Abaqus, COMSOL, Ansys, FEniCS, Simulink, Solidworks Simulation
     - name: Design
       value: Solidworks (expert certification), Inventor, Pro-E, Blender, Fusion360
-    - name: Numerical Analysis
-      value: Abaqus, COMSOL, Ansys, FEniCS, Simulink, Solidworks simulation
     - name: Fabrication
       value: Additive manufacturing, laser cutting, mill, lathe, aluminum casting
     - name: Data Processing & Presentation
-      value: Matlab, git, MS Office Suite, LaTeX, Inkscape
+      value: Matlab, Python, git, LaTeX, Inkscape, MS Office Suite
+
+- title: patents
+  type: list
+  contents:
+    - <b>US Patent 11007317</b> - Bolus delivery mechanism for a miniature wearable insulin delivery device
+    - <b>International Patent WO2021142468A1</b> - Temperature regulation for an optical sensor in a 510(k) approved oximetry device
+    - Provisional patent pending - Tunable energy-absorbing metamaterials for impact mitigation
+
+- title: grants & awards
+  type: map
+  contents:
+    - name: Alexander von Humboldt Postdoctoral Fellowship
+      value: Two years of funding for research into harvesting ocean wave energy using soft electrostatic transducers.
+    - name: AB Nexus Spring 2021 Research Collaboration Grant
+      value: Earned one year of funding by designing, fabricating, and mechanically characterizing multiphase composites alongside biological tissue.
+    - name: Matching Research Grant, Sandia National Laboratories
+      value: Generated numerical and empirical results of high velocity impacts on tunable metamaterials, earning one year of research funding.
+    - name: Best Application Paper
+      value: IEEE CASE Proceedings, Lyon, France, 2021, for a seamless workflow for design and fabrication of pneumatic soft actuators.
+    - name: Finalist, CU Boulder New Venture Challenge 2018
+      value: Analytical modeling and pitch delivery for an electric drivetrain retrofitting system for the freight industry.
+
+- title: selected publications
+  type: list
+  contents:
+    - Kirkman, Schmidt, <b>Smith</b>, et al. "Maximizing the Energy Output of Soft Electrohydraulic Generators." <em>Advanced Science</em>, 2026.
+    - Schulz, Kaufmann, <b>Smith</b>, et al. "Functional gradients facilitate tactile sensing in elephant whiskers." <em>Science</em>, 2026.
+    - <b>Smith</b> and MacCurdy. "Digital Multiphase Composites via Additive Manufacturing." <em>Advanced Materials</em>, 2024.
+    - <b>Smith</b>, Hayes, Ford, et al. "Tunable Metamaterials for Impact Mitigation." <em>Advanced Materials Technologies</em>, 2024.
+    - <b>Smith</b> and MacCurdy. "SoRoForge&#58; End-to-End Soft Actuator Design." <em>IEEE Transactions on Automation Science and Engineering</em>, 2023.
+    - A complete list is available on the <a href="/publications/">publications</a> page.
+
+- title: teaching & outreach
+  type: time_table
+  contents:
+    - title: Research Advisor
+      institution: CU Boulder and MPI-IS
+      year: 2018 – now
+      description:
+        - High-touch advisor to 15+ high school, undergraduate, and graduate engineering students, generating three publications featuring these students as contributing authors
+    - title: Invited Speaker
+      institution: Sandia National Laboratories, RITS3 Lecture Series
+      year: 2023
+      description:
+        - Tunable Energy-Absorptive Metamaterials via Additive Manufacturing
+    - title: Invited Speaker
+      institution: Western Colorado University
+      year: 2023
+      description:
+        - Computational Design of Soft Structures
+    - title: Workshop Lead
+      institution: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+      year: 2022
+      description:
+        - Accelerated Simulations of Soft Actuator Behavior
+    - title: Lecturer
+      institution: CU Boulder Summer Intensive Session
+      year: 2020
+      description:
+        - Introduction to Finite Elements
+    - title: Co-Founder
+      institution: CU Boulder 3D Printing Club
+      year: 2020

@@ -38,3 +38,9 @@ A micromachined rack and gear converts input translational motion into rotation 
 
 
 
+
+---
+
+**Competencies:** mechanism design · design for manufacture · prototype fabrication · medical device development
+
+*See [patents]({{ '/cv/' | relative_url }}#patents) and [work history]({{ '/cv/' | relative_url }}#work-history) on my CV.*
