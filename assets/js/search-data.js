@@ -72,16 +72,16 @@ ninja.data = [{
           description: "beginnings in mechanical design",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_bolus/";
+            },},{id: "projects-energy-from-motion",
+          title: 'energy from motion',
+          description: "compliant electrostatic generators for ocean wave energy",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_hasel_generators/";
             },},{id: "projects-bouncing-back",
           title: 'bouncing back',
           description: "metamaterials for impact absorbtion",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_impact/";
-            },},{id: "projects-nonlinear-modeling",
-          title: 'nonlinear modeling',
-          description: "FEA in the crucible of med-device industry",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_injector/";
             },},{id: "projects-leveraging-compliance",
           title: 'leveraging compliance',
           description: "a new design paradigm for pneumatic soft robots",
