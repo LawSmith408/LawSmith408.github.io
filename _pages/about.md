@@ -34,4 +34,6 @@ I'm a postdoctoral researcher at the [Max Planck Institute for Intelligent Syste
 
 I've learned medical device design at [Triple Ring Technologies](https://www.tripleringtech.com/) in Newark, California, and consulted for years as a numerical modeling specialist with [FPrin](https://fprin.com/). 
 
+I'm planning a return to the west coast of the United States in 2028, where I'm looking to apply this work in **climate technology** - most likely around the California Bay Area or Oregon's Willamette Valley.
+
 Outside of work, I enjoy hiking and trail running around Stuttgart, cluttering my apartment with trinkets, and playing billiards.
